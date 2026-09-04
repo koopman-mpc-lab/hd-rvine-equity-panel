@@ -1,0 +1,30 @@
+code,panel,symbol,name,role
+FIN,sector,XLF,Financial Select Sector SPDR,GICS Financials proxy
+EN,sector,XLE,Energy Select Sector SPDR,GICS Energy proxy
+IT,sector,XLK,Technology Select Sector SPDR,GICS Information Technology proxy
+HC,sector,XLV,Health Care Select Sector SPDR,GICS Health Care proxy
+IND,sector,XLI,Industrial Select Sector SPDR,GICS Industrials proxy
+CD,sector,XLY,Consumer Discretionary Select Sector SPDR,GICS Consumer Discretionary proxy
+CS,sector,XLP,Consumer Staples Select Sector SPDR,GICS Consumer Staples proxy
+MAT,sector,XLB,Materials Select Sector SPDR,GICS Materials proxy
+UTIL,sector,XLU,Utilities Select Sector SPDR,GICS Utilities proxy
+RE,sector,IYR,iShares U.S. Real Estate ETF,GICS Real Estate proxy (full 2005-2024 history)
+TEL,sector,VOX,Vanguard Communication Services ETF,GICS Communication Services proxy (full 2005-2024 history)
+SPX,international,^GSPC,S&P 500,US market index
+FTSE,international,^FTSE,FTSE 100,UK market index
+DAX,international,^GDAXI,DAX,Germany market index
+N225,international,^N225,Nikkei 225,Japan market index
+HSI,international,^HSI,Hang Seng,Hong Kong market index
+CAC,international,^FCHI,CAC 40,France market index
+NoDur,ff12,FF-NoDur,Fama-French Consumer Nondurables,same-type public industry portfolio
+Durbl,ff12,FF-Durbl,Fama-French Consumer Durables,same-type public industry portfolio
+Manuf,ff12,FF-Manuf,Fama-French Manufacturing,same-type public industry portfolio
+Enrgy,ff12,FF-Enrgy,Fama-French Energy,same-type public industry portfolio
+Chems,ff12,FF-Chems,Fama-French Chemicals,same-type public industry portfolio
+BusEq,ff12,FF-BusEq,Fama-French Business Equipment,same-type public industry portfolio
+Telcm,ff12,FF-Telcm,Fama-French Telecom,same-type public industry portfolio
+Utils,ff12,FF-Utils,Fama-French Utilities,same-type public industry portfolio
+Shops,ff12,FF-Shops,Fama-French Shops,same-type public industry portfolio
+Hlth,ff12,FF-Hlth,Fama-French Health,same-type public industry portfolio
+Money,ff12,FF-Money,Fama-French Money/Finance,same-type public industry portfolio
+Other,ff12,FF-Other,Fama-French Other,same-type public industry portfolio
