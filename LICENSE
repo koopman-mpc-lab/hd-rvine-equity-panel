@@ -1,9 +1,0 @@
-This compilation is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-https://creativecommons.org/licenses/by/4.0/
-
-Underlying market quotes remain the property of the relevant exchanges and index providers. They are redistributed here only as a convenience for academic replication. Official S&P GICS sector total-return indices are proprietary; this package uses publicly quoted sector ETFs as research proxies.
-
-The Fama-French 12 industry daily portfolios are produced by the Ken French Data Library. Please cite that library when using the ff12 files:
-
-https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
